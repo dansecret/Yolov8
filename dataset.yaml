@@ -1,0 +1,7 @@
+train: C:\YoloV8\train
+val: C:\YoloV8\test
+
+
+nc: 1
+
+names: ['ball']
